@@ -20,8 +20,8 @@ bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 # Majburiy obuna kanali
-CHANNEL_USERNAME = "@top_uz_kino"
-CHANNEL_URL = "https://t.me/top_uz_kino"
+CHANNEL_USERNAME = "@top_kinola_uz"
+CHANNEL_URL = "https://t.me/top_kinola_uz"
 
 # Admin "kino qo'shish" jarayoni
 pending_add: dict[int, str] = {}
